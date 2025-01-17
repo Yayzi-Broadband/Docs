@@ -1,0 +1,4 @@
+site_name: Yayzi Docs
+site_url: https://docs.yayzi.co.uk
+theme:
+  name: material
